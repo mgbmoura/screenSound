@@ -12,3 +12,4 @@ C:\Users\PCRS\source\repos\screenSound\screenSound\obj\Debug\net8.0\refint\scree
 C:\Users\PCRS\source\repos\screenSound\screenSound\obj\Debug\net8.0\screenSound.pdb
 C:\Users\PCRS\source\repos\screenSound\screenSound\obj\Debug\net8.0\screenSound.genruntimeconfig.cache
 C:\Users\PCRS\source\repos\screenSound\screenSound\obj\Debug\net8.0\ref\screenSound.dll
+C:\Users\PCRS\source\repos\screenSound\screenSound\obj\Debug\net8.0\screenSound.sourcelink.json

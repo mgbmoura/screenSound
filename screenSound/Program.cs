@@ -154,6 +154,7 @@ void CalculaMediaBanda()
     {
         List<int>  notasDaBanda = bandasRegistradas[nomeDaBanda];
         Console.WriteLine($"\nA média da banda {nomeDaBanda} é:{notasDaBanda.Average()}.");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal\r\n\f");
         Console.ReadKey();
         Console.Clear();
         ExibirOpcoesDoMenu();

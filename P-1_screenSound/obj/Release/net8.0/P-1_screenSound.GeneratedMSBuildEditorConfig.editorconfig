@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P_1_screenSound
-build_property.ProjectDir = C:\Users\marcelo-belmonte\Source\Repos\mgbmoura\screenSound\P-1_screenSound\
+build_property.ProjectDir = C:\Users\PCRS\Documents\GitHub\screenSound\P-1_screenSound\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false

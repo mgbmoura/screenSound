@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Kd6TMfm0AwaCOMm36bCYAPFeDzeUK+lW+LS6iXhN5lyTngtkOmG/oL/r58Xd+MnIqOPl/pOx7Q0bKmYo2YJ7Vw==",
+  "dgSpecHash": "CfNzgnJoUQ4HtNDg1PVhTqrXJZ+OrLn+7TwoH/UAaspPRb99PHwaxBG3LLOtloMnXMLu/R+GjjkhiCObgMUeSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PCRS\\source\\repos\\screenSound\\screenSound\\screenSound.csproj",
+  "projectFilePath": "C:\\Users\\PCRS\\Documents\\GitHub\\screenSound\\screenSound\\screenSound.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PCRS\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
-    "C:\\Users\\PCRS\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
-    "C:\\Users\\PCRS\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+    "C:\\Users\\PCRS\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\PCRS\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\PCRS\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
